@@ -1,5 +1,6 @@
 # Table of Contents
 - [What is NS](#what-is-ns)
+- [Defines](#defines)
 
 # What is NS?
 NS is something that was originally calles NeXTSTEP. It combines multiple parts:
